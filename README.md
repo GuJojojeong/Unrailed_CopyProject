@@ -27,7 +27,7 @@
 - 개발 엔진 및 언어 : UNITY, C#
 - 팀 이름 : 9조조정🗄
 
-- [전체 코드 레포지토리]
+- [전체 코드 레포지토리](https://github.com/GuJojojeong/Unrailed_CopyGame)
 
 ## 🖥 팀 소개
 |팀장|팀원|팀원|팀원|팀원|
