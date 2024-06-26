@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59848825056ae0e47b38ba956a544864, type: 3}
+  m_Name: ResourceTrain
+  m_EditorClassIdentifier: 
+  carName: "\uC790\uC6D0\uC790\uB3D9\uC218\uC9D1\uAE30"
+  scoreCost: 2
+  prefab: {fileID: 1113868565148931071, guid: db519e6a58af3f14b9a208aa3ffce3b2, type: 3}
+  description: "\uC790\uC6D0\uC744 \uC218\uC9D1\uD558\uB294 \uCC28\uB7C9\uC785\uB2C8\uB2E4."
+  isPurchased: 1
+  specialEffectDuration: 3
